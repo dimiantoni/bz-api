@@ -1,4 +1,4 @@
-# node-js-getting-started
+# node-js-getting-started heroku
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
